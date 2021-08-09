@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #7e0d36;
+}
+body{
+	background-color: #7e0d36;
+	color: white;
+}
+.glyphicon{
+	font-size: 35px;
+	color:#7e0d36; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 35px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #7e0d36;
+}
+.navbar-brand{
+font-size: 35px;	
+}
+/* #61122F */
